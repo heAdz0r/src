@@ -1,0 +1,18 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+	well, first of all, diff really saves tons of time.
+It is easy to miss see the bug with your eyes. But diff will help us to see what's been changed between 2 almost completely identical files.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+	For an instance, i'll cover an example from my current job. Yesterday we had a really major problem. something went wrong and one of our servers interrupted for a while. After it was reloaded we've noticed that several files broke up. And some of the scripts inside was'nt able to work correct. At this point, i figured it out, that I must learn more about version control. Because we have no saved copy of that files. 
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+	Pros: You have more clear view on history of changes. Nothing excess.
+	Cons: You definately must be more confident about changes. And do not forget to do in yourself. It is more essential working on small projects.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+	The systems like google docs and Git have different purposes. In my opinion, if you are familiar with office and windows kind'a style of managing filies, you might even do not know about version controls and other stuff like that. All you know, that you want to store your documents in "Cloud", to have multiple access from all your devices. Returning to the question, it is hard to think about multiple files like about one project.
+	Git, definately gives an alternate approach to user. From the beginning, you KNOW, that your purpose to, for example, launch a web-project. So you have to be sure that every part of your project is working together lika a solid single unit.
