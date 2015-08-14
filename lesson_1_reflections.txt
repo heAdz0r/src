@@ -16,3 +16,11 @@ Why do you think some version control systems, like Git, allow saving multiple f
 
 	The systems like google docs and Git have different purposes. In my opinion, if you are familiar with office and windows kind'a style of managing filies, you might even do not know about version controls and other stuff like that. All you know, that you want to store your documents in "Cloud", to have multiple access from all your devices. Returning to the question, it is hard to think about multiple files like about one project.
 	Git, definately gives an alternate approach to user. From the beginning, you KNOW, that your purpose to, for example, launch a web-project. So you have to be sure that every part of your project is working together lika a solid single unit.
+
+How can you use the commands git log and git diff to view the history of files?
+
+	First of all, you can't just view the history of any file on your computer. You must crete .git repository inside your project folder. Only after this manipulations you can view the history of your commits and difference between them and your project files. Git log - view all commits on current branch. Git diff to compare between commits of files of even brances.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+	Personally, i've already started working on this current reflecions file with git. I can monitor changes from one reflection to another and so on. ;) 
