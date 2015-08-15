@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	Git creates hidden folder .git, which would contain meta-data of your repository, including all previous versions, commits and deltas between them. It is necessary for you to be sure, that your folder is under kinda protect. You cant just ruin all your data trying to add new feature to your project.
